@@ -31,3 +31,17 @@ Python mostly. PyTorch. some JAX when the paper i'm reading only has JAX code. o
 ---
 
 *open to discussing research ideas, paper recommendations, or collaboration — just open an issue or something*
+
+---
+
+<details>
+<summary>some papers i've found genuinely useful (not a comprehensive list, just things i keep coming back to)</summary>
+
+- [LLaVA-1.5](https://arxiv.org/abs/2310.03744) — still a solid baseline, surprisingly hard to beat with tricks
+- [ToMe](https://arxiv.org/abs/2210.09461) — token merging in ViTs, simple idea that holds up well
+- [BLIP-2](https://arxiv.org/abs/2301.12597) — the Q-Former design is still interesting
+- [LLaVA-NeXT](https://llava-vl.github.io/blog/2024-01-30-llava-next/) — dynamic resolution handling
+- [InternVL2](https://internvl.github.io/) — the multi-scale approach makes a real difference
+- the LoRA paper obviously ([Hu et al. 2021](https://arxiv.org/abs/2106.09685))
+
+</details>
