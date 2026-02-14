@@ -45,3 +45,11 @@ Python mostly. PyTorch. some JAX when the paper i'm reading only has JAX code. o
 - the LoRA paper obviously ([Hu et al. 2021](https://arxiv.org/abs/2106.09685))
 
 </details>
+
+---
+
+**recent activity (last updated manually, git is not a live feed):**
+
+- been reading a lot of efficient attention papers lately — linear attention, sparse attention, that whole space
+- started using Cursor more for the tedious refactoring stuff, mixed feelings about it
+- writing my thesis proposal, which is less fun than actual research
